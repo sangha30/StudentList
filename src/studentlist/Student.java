@@ -12,6 +12,7 @@ public class Student {
     private String name;
     private String studentID;
     private String address;
+    private String employeed;
 
     public String getName() {
         return name;
